@@ -1,6 +1,6 @@
 # Shell Scripting Log
 
-```shell
+```bash
 
 erajmuk@seliiuvd07521:~/shell_scripting_tutorial/1_shell-scripting-bash-zshell-getting-started/02/demos/after_m2$ 
 erajmuk@seliiuvd07521:~/shell_scripting_tutorial/1_shell-scripting-bash-zshell-getting-started/02/demos/after_m2$ 
@@ -16,6 +16,7 @@ erajmuk@seliiuvd07521:~/shell_scripting_tutorial/1_shell-scripting-bash-zshell-g
 erajmuk@seliiuvd07521:~/shell_scripting_tutorial/1_shell-scripting-bash-zshell-getting-started/02/demos/after_m2$ 
 ```
 
+```bash
 erajmuk@seliiuvd07521:~/shell_scripting_tutorial/1_shell-scripting-bash-zshell-getting-started/02/demos/after_m2$ nano create_report.sh
 erajmuk@seliiuvd07521:~/shell_scripting_tutorial/1_shell-scripting-bash-zshell-getting-started/02/demos/after_m2$ create
 create-cracklib-dict  create-jar-links      createdb              createlang            createuser            
@@ -500,7 +501,9 @@ erajmuk@seliiuvd07521:~/shell_scripting_tutorial/1_shell-scripting-bash-zshell-g
 erajmuk@seliiuvd07521:~/shell_scripting_tutorial/1_shell-scripting-bash-zshell-getting-started/03/demos/after_m3$ 
 erajmuk@seliiuvd07521:~/shell_scripting_tutorial/1_shell-scripting-bash-zshell-getting-started/03/demos/after_m3$ 
 erajmuk@seliiuvd07521:~/shell_scripting_tutorial/1_shell-scripting-bash-zshell-getting-started/03/demos/after_m3$ shellcheck create_report_exercise_wrong.sh
+```
 
+```bash
 In create_report_exercise_wrong.sh line 6:
 container=$1"
 ^-- SC1009 (info): The mentioned syntax error was in this variable assignment.
@@ -762,4 +765,4 @@ Wrote report reports/A5_report.csv
 erajmuk@seliiuvd07521:~/shell_scripting_tutorial/1_shell-scripting-bash-zshell-getting-started/03/demos/after_m3(master)$ 
 erajmuk@seliiuvd07521:~/shell_scripting_tutorial/1_shell-scripting-bash-zshell-getting-started/03/demos/after_m3(master)$ 
 erajmuk@seliiuvd07521:~/shell_scripting_tutorial/1_shell-scripting-bash-zshell-getting-started/03/demos/after_m3(master)$ 
-
+```
