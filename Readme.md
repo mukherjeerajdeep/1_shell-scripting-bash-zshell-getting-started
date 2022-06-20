@@ -1,3 +1,7 @@
+# Shell Scripting Log
+
+```shell
+
 erajmuk@seliiuvd07521:~/shell_scripting_tutorial/1_shell-scripting-bash-zshell-getting-started/02/demos/after_m2$ 
 erajmuk@seliiuvd07521:~/shell_scripting_tutorial/1_shell-scripting-bash-zshell-getting-started/02/demos/after_m2$ 
 erajmuk@seliiuvd07521:~/shell_scripting_tutorial/1_shell-scripting-bash-zshell-getting-started/02/demos/after_m2$ 
@@ -10,6 +14,8 @@ drwxr-xr-x 3 erajmuk eusers 4.0K Jun 20 11:25 ..
 -rwxr-xr-x 1 erajmuk eusers  52K Aug 28  2020 shipments.csv
 erajmuk@seliiuvd07521:~/shell_scripting_tutorial/1_shell-scripting-bash-zshell-getting-started/02/demos/after_m2$ 
 erajmuk@seliiuvd07521:~/shell_scripting_tutorial/1_shell-scripting-bash-zshell-getting-started/02/demos/after_m2$ 
+```
+
 erajmuk@seliiuvd07521:~/shell_scripting_tutorial/1_shell-scripting-bash-zshell-getting-started/02/demos/after_m2$ nano create_report.sh
 erajmuk@seliiuvd07521:~/shell_scripting_tutorial/1_shell-scripting-bash-zshell-getting-started/02/demos/after_m2$ create
 create-cracklib-dict  create-jar-links      createdb              createlang            createuser            
